@@ -1,4 +1,4 @@
-## Resume Screning using NLP9(Natural language processing)
+## Resume Screning using NLP (Natural language processing)
 
 
 
